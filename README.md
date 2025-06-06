@@ -1,2 +1,7 @@
 # sand_simulation
-basic g
+basic grid based sand sim
+
+run this after opening terminal sometimes because py5 is weird idk
+$env:JAVA_HOME = "C:\Program Files\Java\jdk-17.0.1"
+$env:PY5_JAVA_HOME = "C:\Program Files\Java\jdk-17.0.1"
+python sand_simulation.py
